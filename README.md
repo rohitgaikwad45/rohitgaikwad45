@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a recent graduate with a strong passion for da
 
 ## 🚀 Skills
 
-- **Languages:** Python, SQL, R
-- **Tools:** Excel, Tableau, Power BI
+- **Languages:** Python, SQL
+- **Tools and Databases:** Excel, Tableau, Power BI, MySQL, MongoDB, AWS
 - **Data Analysis:** Data cleaning, visualization, and statistical analysis
 - **Machine Learning:** Basic understanding of supervised and unsupervised learning
 - **Soft Skills:** Problem-solving, critical thinking, and teamwork
