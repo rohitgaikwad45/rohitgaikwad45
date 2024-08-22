@@ -28,22 +28,22 @@ Welcome to my GitHub profile! I'm a recent graduate with a strong passion for da
 
 ## 💻 Projects
 
-### 📊 [Questomatic : Automatic Question Generator](https://github.com/rohitgaikwad45/Questomatic-Automatic-Question-Generator)
+### 📚 [Questomatic : Automatic Question Generator](https://github.com/rohitgaikwad45/Questomatic-Automatic-Question-Generator)
 – Developed web application for automated question generation from pdf
 & text files, focusing on NLP for Marathi & English. Implemented MySQL integration for managing user data.
 Designed the application with a user-friendly interface, enabling efficient text processing and question generation.
 
-### 📈 [Flight Delayed Analysis](https://github.com/rohitgaikwad45/EDA--Flight-Delayed-Analysis)
+### 📊 [Flight Delayed Analysis](https://github.com/rohitgaikwad45/EDA--Flight-Delayed-Analysis)
 Analyzed flight delay data to identify key factors influencing delays, using data
 preprocessing and visualization techniques. Presented insights through visualizations that highlighted patterns and
 correlations, aiding in decision-making.
 
-### 🌐 [Stock Price Prediction](https://github.com/rohitgaikwad45/Stock-Price-Prediction)
+### 📈 [Stock Price Prediction](https://github.com/rohitgaikwad45/Stock-Price-Prediction)
 Developed a Streamlit web application for stock price prediction using historical data
 from Yahoo Finance and the Prophet forecasting model. Implemented interactive visualizations to display raw data,
 predicted trends, and forecast components for multiple stocks over a selected prediction period.
 
-<!--
+<!--🌐
 ## 📚 Learning Journey
 
 - **Machine Learning:** Currently taking [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng.
