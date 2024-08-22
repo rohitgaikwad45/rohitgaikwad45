@@ -28,20 +28,27 @@ Welcome to my GitHub profile! I'm a recent graduate with a strong passion for da
 
 ## 💻 Projects
 
-### 📊 [Sales Data Analysis](https://github.com/your-username/sales-data-analysis)
-An in-depth analysis of a retail sales dataset to identify trends and make data-driven business recommendations.
+### 📊 [Questomatic : Automatic Question Generator](https://github.com/rohitgaikwad45/Questomatic-Automatic-Question-Generator)
+– Developed web application for automated question generation from pdf
+& text files, focusing on NLP for Marathi & English. Implemented MySQL integration for managing user data.
+Designed the application with a user-friendly interface, enabling efficient text processing and question generation.
 
-### 📈 [Customer Segmentation](https://github.com/your-username/customer-segmentation)
-Clustered customers into segments using K-means clustering, providing insights for targeted marketing strategies.
+### 📈 [Flight Delayed Analysis](https://github.com/rohitgaikwad45/EDA--Flight-Delayed-Analysis)
+Analyzed flight delay data to identify key factors influencing delays, using data
+preprocessing and visualization techniques. Presented insights through visualizations that highlighted patterns and
+correlations, aiding in decision-making.
 
-### 🌐 [COVID-19 Data Visualization](https://github.com/your-username/covid19-data-viz)
-A series of interactive visualizations tracking the global spread of COVID-19 using Tableau.
+### 🌐 [Stock Price Prediction](https://github.com/rohitgaikwad45/Stock-Price-Prediction)
+Developed a Streamlit web application for stock price prediction using historical data
+from Yahoo Finance and the Prophet forecasting model. Implemented interactive visualizations to display raw data,
+predicted trends, and forecast components for multiple stocks over a selected prediction period.
 
+<!--
 ## 📚 Learning Journey
 
 - **Machine Learning:** Currently taking [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning) by Andrew Ng.
 - **Deep Learning:** Exploring deep learning through [DeepLearning.AI](https://www.deeplearning.ai/).
-
+-->
 ## 🎯 Career Goals
 
 - Transition into a data scientist role
@@ -50,10 +57,10 @@ A series of interactive visualizations tracking the global spread of COVID-19 us
 
 ## 📫 Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/rohitgaikwad45)
 - [Personal Portfolio](https://your-portfolio.com)
 
-![Coding GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
 
 ---
 
