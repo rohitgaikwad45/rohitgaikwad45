@@ -28,6 +28,18 @@ Welcome to my GitHub profile! I'm a recent graduate with a strong passion for da
 
 ## 💻 Projects
 
+
+### 📈 [Amazon Sales Data Analysis](https://github.com/rohitgaikwad45/Amazon-Sales-Data-Analysis)
+ Conducted comprehensive data analysis on Amazon sales data to uncover trends,
+ patterns, and key performance indicators (KPIs). Utilized Python and pandas for Data cleaning, transformation,
+ and visualization. Analyzed sales performance and providing actionable insights to improve business strategies.
+
+ ### 📊 [Analyzing Employee Trends Dashboard](https://github.com/rohitgaikwad45/Analyzing-Employee-Trends-Dashboard)
+ Developed an interactive Tableau Dashboard to analyze employee
+ trends, providing insights into key metrics such as workforce distribution, attrition rates, and performance trends.
+ The dashboard utilizes advanced visualizations, interactive filters, and drill-down capabilities, enabling stakeholders
+ to make data-driven decisions. Published on Tableau Public for accessibility and sharing.
+
 ### 📚 [Questomatic : Automatic Question Generator](https://github.com/rohitgaikwad45/Questomatic-Automatic-Question-Generator)
 – Developed web application for automated question generation from pdf
 & text files, focusing on NLP for Marathi & English. Implemented MySQL integration for managing user data.
