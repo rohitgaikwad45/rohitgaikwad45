@@ -57,8 +57,9 @@ predicted trends, and forecast components for multiple stocks over a selected pr
 
 ## 📫 Let's Connect!
 
+- [Resume](https://drive.google.com/file/d/1ovkv3Xy1SX6V7a0QAJrRx14lRch562XA/view?usp=drivesdk)
 - [LinkedIn](https://www.linkedin.com/in/rohitgaikwad45)
-- [Personal Portfolio](https://your-portfolio.com)
+
 
 
 
