@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a recent graduate with a strong passion for da
 - **Languages:** Python, SQL
 - **Tools and Databases:** Excel, Tableau, Power BI, MySQL, MongoDB, AWS
 - **Data Analysis:** Data cleaning, visualization, and statistical analysis
-- **Machine Learning:** Basic understanding of supervised and unsupervised learning
+- **Machine Learning:** supervised and unsupervised learning, Statistics, Scikit-learn
 - **Soft Skills:** Problem-solving, critical thinking, and teamwork
 
 ## 💻 Projects
