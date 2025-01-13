@@ -1,6 +1,6 @@
 <!--
 **rohitgaikwad45/rohitgaikwad45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Profile view counter on GitHub](https://github.com/rohitgaikwad45)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hi there! 👋 I'm Rohit Gaikwad
 
 🎓 **Aspiring Data Analyst | Future Data Scientist**
-
+![Profile view counter on GitHub](https://github.com/rohitgaikwad45)
 Welcome to my GitHub profile! I'm a recent graduate with a strong passion for data analysis and a deep curiosity for uncovering insights from complex datasets. My ultimate goal is to transition into a data scientist role, where I can apply my analytical skills to solve real-world challenges.
 
 ## 🚀 Skills
