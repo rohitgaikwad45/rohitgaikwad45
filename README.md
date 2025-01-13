@@ -1,6 +1,6 @@
 <!--
 **rohitgaikwad45/rohitgaikwad45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Profile view counter on GitHub](https://github.com/rohitgaikwad45)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
