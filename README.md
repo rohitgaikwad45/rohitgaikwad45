@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋 I'm Rohit Gaikwad
+# Hi there! 👋 I'm Rohit Gaikwad  
+![Profile Views](https://komarev.com/ghpvc/?username=rohitgaikwad45&color=blue)  
 
 🎓 **Aspiring Data Analyst | Future Data Scientist**
-![Profile Views](https://komarev.com/ghpvc/?username=rohitgaikwad45&color=blue)
 
 Welcome to my GitHub profile! I'm a recent graduate with a strong passion for data analysis and a deep curiosity for uncovering insights from complex datasets. My ultimate goal is to transition into a data scientist role, where I can apply my analytical skills to solve real-world challenges.
 
