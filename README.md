@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 # Hi there! 👋 I'm Rohit Gaikwad
 
 🎓 **Aspiring Data Analyst | Future Data Scientist**
-![Profile view counter on GitHub](https://github.com/rohitgaikwad45)
+![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/rohitgaikwad45&color=blue)
+
 Welcome to my GitHub profile! I'm a recent graduate with a strong passion for data analysis and a deep curiosity for uncovering insights from complex datasets. My ultimate goal is to transition into a data scientist role, where I can apply my analytical skills to solve real-world challenges.
 
 ## 🚀 Skills
